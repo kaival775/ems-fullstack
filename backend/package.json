@@ -15,7 +15,7 @@
     "mern",
     "express"
   ],
-  "author": "Your Name",
+  "author": "kaivalya sonawne",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
