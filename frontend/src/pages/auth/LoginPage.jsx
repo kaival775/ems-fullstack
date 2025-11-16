@@ -160,20 +160,6 @@ const LoginPage = () => {
               </button>
             </form>
 
-            {/* Demo Credentials */}
-            <div className="mt-6 p-4 bg-gray-50 dark:bg-zinc-800 rounded-lg">
-              <h4 className="text-sm font-medium text-gray-900 dark:text-gray-100 mb-2">
-                Demo Credentials:
-              </h4>
-              <div className="text-xs text-gray-600 dark:text-gray-300 space-y-1">
-                <p>
-                  <strong>Admin:</strong> admin@company.com / admin123
-                </p>
-                <p>
-                  <strong>Employee:</strong> john.doe@company.com / employee123
-                </p>
-              </div>
-            </div>
           </div>
         </motion.div>
 
