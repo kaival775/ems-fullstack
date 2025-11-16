@@ -117,8 +117,34 @@ const seedAllData = async () => {
     });
     console.log(`✅ Found ${departments.length} departments`);
 
+    // Create admin user first
+    const adminData = {
+      name: 'System Administrator',
+      email: 'admin@company.com',
+      password: 'admin123',
+      role: 'Admin',
+      phone: '+91 98765 00000',
+      address: {
+        street: 'Admin Office',
+        city: 'Mumbai',
+        state: 'Maharashtra',
+        zipCode: '400001',
+        country: 'India'
+      }
+    };
+
+    // Check if admin exists, if not create one
+    let admin = await User.findOne({ email: 'admin@company.com' });
+    if (!admin) {
+      admin = await User.create(adminData);
+      console.log('✅ Admin user created');
+    } else {
+      console.log('✅ Admin user already exists');
+    }
+
     // Create employees data
     const employeesData = [
+     
       { name: 'Rajesh Kumar', email: 'rajesh.kumar@company.com', password: 'employee123', role: 'Employee', department: deptMap['Human Resources'], position: 'Manager', salary: 85000, phone: '+91 98765 43210', address: { street: 'MG Road', city: 'Mumbai', state: 'Maharashtra', zipCode: '400001', country: 'India' } },
       { name: 'Priya Sharma', email: 'priya.sharma@company.com', password: 'employee123', role: 'Employee', department: deptMap['Human Resources'], position: 'HR Executive', salary: 45000, phone: '+91 98765 43211', address: { street: 'Connaught Place', city: 'Delhi', state: 'Delhi', zipCode: '110001', country: 'India' } },
       { name: 'Amit Patel', email: 'amit.patel@company.com', password: 'employee123', role: 'Employee', department: deptMap['Human Resources'], position: 'Recruiter', salary: 42000, phone: '+91 98765 43212', address: { street: 'SG Highway', city: 'Ahmedabad', state: 'Gujarat', zipCode: '380015', country: 'India' } },
