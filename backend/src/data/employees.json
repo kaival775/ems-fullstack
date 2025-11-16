@@ -1,0 +1,614 @@
+[
+  {
+    "name": "Rajesh Kumar",
+    "email": "rajesh.kumar@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "6919736fcb230d5e869ccbe7",
+    "position": "Manager",
+    "salary": 85000,
+    "phone": "+91 98765 43210",
+    "address": {
+      "street": "MG Road",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zipCode": "400001",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Priya Sharma",
+    "email": "priya.sharma@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "6919736fcb230d5e869ccbe7",
+    "position": "HR Executive",
+    "salary": 45000,
+    "phone": "+91 98765 43211",
+    "address": {
+      "street": "Connaught Place",
+      "city": "Delhi",
+      "state": "Delhi",
+      "zipCode": "110001",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Amit Patel",
+    "email": "amit.patel@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "6919736fcb230d5e869ccbe7",
+    "position": "Recruiter",
+    "salary": 42000,
+    "phone": "+91 98765 43212",
+    "address": {
+      "street": "SG Highway",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "zipCode": "380015",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Sneha Reddy",
+    "email": "sneha.reddy@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "6919736fcb230d5e869ccbe7",
+    "position": "Training Specialist",
+    "salary": 48000,
+    "phone": "+91 98765 43213",
+    "address": {
+      "street": "Banjara Hills",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zipCode": "500034",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Vikram Singh",
+    "email": "vikram.singh@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "691973a4cb230d5e869ccbff",
+    "position": "Manager",
+    "salary": 95000,
+    "phone": "+91 98765 43214",
+    "address": {
+      "street": "Civil Lines",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "zipCode": "302006",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Ananya Iyer",
+    "email": "ananya.iyer@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "691973a4cb230d5e869ccbff",
+    "position": "Accountant",
+    "salary": 48000,
+    "phone": "+91 98765 43215",
+    "address": {
+      "street": "Indiranagar",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zipCode": "560038",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Karthik Menon",
+    "email": "karthik.menon@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "691973a4cb230d5e869ccbff",
+    "position": "Financial Analyst",
+    "salary": 52000,
+    "phone": "+91 98765 43216",
+    "address": {
+      "street": "Marine Drive",
+      "city": "Kochi",
+      "state": "Kerala",
+      "zipCode": "682011",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Neha Gupta",
+    "email": "neha.gupta@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "691973a4cb230d5e869ccbff",
+    "position": "Payroll Specialist",
+    "salary": 46000,
+    "phone": "+91 98765 43217",
+    "address": {
+      "street": "Park Street",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "zipCode": "700016",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Arjun Nair",
+    "email": "arjun.nair@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "691973bfcb230d5e869ccc0b",
+    "position": "Manager",
+    "salary": 90000,
+    "phone": "+91 98765 43218",
+    "address": {
+      "street": "Anna Salai",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "zipCode": "600002",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Pooja Desai",
+    "email": "pooja.desai@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "691973bfcb230d5e869ccc0b",
+    "position": "Sales Executive",
+    "salary": 44000,
+    "phone": "+91 98765 43219",
+    "address": {
+      "street": "FC Road",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zipCode": "411004",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Rahul Verma",
+    "email": "rahul.verma@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "691973bfcb230d5e869ccc0b",
+    "position": "Business Development",
+    "salary": 40000,
+    "phone": "+91 98765 43220",
+    "address": {
+      "street": "Hazratganj",
+      "city": "Lucknow",
+      "state": "Uttar Pradesh",
+      "zipCode": "226001",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Divya Krishnan",
+    "email": "divya.krishnan@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "691973d7cb230d5e869ccc17",
+    "position": "Manager",
+    "salary": 88000,
+    "phone": "+91 98765 43221",
+    "address": {
+      "street": "Whitefield",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zipCode": "560066",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Sanjay Malhotra",
+    "email": "sanjay.malhotra@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "691973d7cb230d5e869ccc17",
+    "position": "Digital Marketing Specialist",
+    "salary": 47000,
+    "phone": "+91 98765 43222",
+    "address": {
+      "street": "Sector 18",
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "zipCode": "201301",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Kavya Rao",
+    "email": "kavya.rao@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "691973d7cb230d5e869ccc17",
+    "position": "Content Writer",
+    "salary": 35000,
+    "phone": "+91 98765 43223",
+    "address": {
+      "street": "Koramangala",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zipCode": "560034",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Aditya Chopra",
+    "email": "aditya.chopra@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "691973d7cb230d5e869ccc17",
+    "position": "Social Media Manager",
+    "salary": 43000,
+    "phone": "+91 98765 43224",
+    "address": {
+      "street": "Linking Road",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zipCode": "400050",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Rohan Kapoor",
+    "email": "rohan.kapoor@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "691973f1cb230d5e869ccc23",
+    "position": "Manager",
+    "salary": 120000,
+    "phone": "+91 98765 43225",
+    "address": {
+      "street": "Cyber City",
+      "city": "Gurgaon",
+      "state": "Haryana",
+      "zipCode": "122002",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Meera Joshi",
+    "email": "meera.joshi@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "691973f1cb230d5e869ccc23",
+    "position": "Senior Software Engineer",
+    "salary": 85000,
+    "phone": "+91 98765 43226",
+    "address": {
+      "street": "Hinjewadi",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zipCode": "411057",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Suresh Babu",
+    "email": "suresh.babu@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "691973f1cb230d5e869ccc23",
+    "position": "Software Engineer",
+    "salary": 65000,
+    "phone": "+91 98765 43227",
+    "address": {
+      "street": "OMR Road",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "zipCode": "600097",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Ishita Bansal",
+    "email": "ishita.bansal@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "691973f1cb230d5e869ccc23",
+    "position": "QA Engineer",
+    "salary": 55000,
+    "phone": "+91 98765 43228",
+    "address": {
+      "street": "Salt Lake",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "zipCode": "700091",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Manish Agarwal",
+    "email": "manish.agarwal@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "691973f1cb230d5e869ccc23",
+    "position": "DevOps Engineer",
+    "salary": 75000,
+    "phone": "+91 98765 43229",
+    "address": {
+      "street": "Electronic City",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zipCode": "560100",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Tanvi Shah",
+    "email": "tanvi.shah@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "69197413cb230d5e869ccc2f",
+    "position": "Manager",
+    "salary": 105000,
+    "phone": "+91 98765 43230",
+    "address": {
+      "street": "Satellite",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "zipCode": "380015",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Varun Mehta",
+    "email": "varun.mehta@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "69197413cb230d5e869ccc2f",
+    "position": "Product Manager",
+    "salary": 95000,
+    "phone": "+91 98765 43231",
+    "address": {
+      "street": "Bandra West",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zipCode": "400050",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Ritu Saxena",
+    "email": "ritu.saxena@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "69197413cb230d5e869ccc2f",
+    "position": "Product Analyst",
+    "salary": 70000,
+    "phone": "+91 98765 43232",
+    "address": {
+      "street": "Gomti Nagar",
+      "city": "Lucknow",
+      "state": "Uttar Pradesh",
+      "zipCode": "226010",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Deepak Yadav",
+    "email": "deepak.yadav@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "6919741ecb230d5e869ccc3b",
+    "position": "Manager",
+    "salary": 92000,
+    "phone": "+91 98765 43233",
+    "address": {
+      "street": "Nehru Place",
+      "city": "Delhi",
+      "state": "Delhi",
+      "zipCode": "110019",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Swati Kulkarni",
+    "email": "swati.kulkarni@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "6919741ecb230d5e869ccc3b",
+    "position": "IT Support Specialist",
+    "salary": 50000,
+    "phone": "+91 98765 43234",
+    "address": {
+      "street": "Kothrud",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zipCode": "411038",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Nikhil Pandey",
+    "email": "nikhil.pandey@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "6919741ecb230d5e869ccc3b",
+    "position": "Network Administrator",
+    "salary": 58000,
+    "phone": "+91 98765 43235",
+    "address": {
+      "street": "Vastrapur",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "zipCode": "380015",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Shreya Pillai",
+    "email": "shreya.pillai@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "6919741ecb230d5e869ccc3b",
+    "position": "Security Analyst",
+    "salary": 68000,
+    "phone": "+91 98765 43236",
+    "address": {
+      "street": "Kakkanad",
+      "city": "Kochi",
+      "state": "Kerala",
+      "zipCode": "682030",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Gaurav Sinha",
+    "email": "gaurav.sinha@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "69197430cb230d5e869ccc47",
+    "position": "Manager",
+    "salary": 87000,
+    "phone": "+91 98765 43237",
+    "address": {
+      "street": "Rajarhat",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "zipCode": "700156",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Pallavi Bhatt",
+    "email": "pallavi.bhatt@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "69197430cb230d5e869ccc47",
+    "position": "Operations Executive",
+    "salary": 46000,
+    "phone": "+91 98765 43238",
+    "address": {
+      "street": "Malviya Nagar",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "zipCode": "302017",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Akash Tiwari",
+    "email": "akash.tiwari@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "69197430cb230d5e869ccc47",
+    "position": "Process Coordinator",
+    "salary": 42000,
+    "phone": "+91 98765 43239",
+    "address": {
+      "street": "Indore Road",
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "zipCode": "452001",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Simran Kaur",
+    "email": "simran.kaur@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "6919743fcb230d5e869ccc53",
+    "position": "Manager",
+    "salary": 78000,
+    "phone": "+91 98765 43240",
+    "address": {
+      "street": "Model Town",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "zipCode": "160022",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Vishal Dubey",
+    "email": "vishal.dubey@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "6919743fcb230d5e869ccc53",
+    "position": "Office Administrator",
+    "salary": 38000,
+    "phone": "+91 98765 43241",
+    "address": {
+      "street": "Alambagh",
+      "city": "Lucknow",
+      "state": "Uttar Pradesh",
+      "zipCode": "226005",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Anjali Mishra",
+    "email": "anjali.mishra@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "6919743fcb230d5e869ccc53",
+    "position": "Facility Coordinator",
+    "salary": 36000,
+    "phone": "+91 98765 43242",
+    "address": {
+      "street": "Aashiana",
+      "city": "Lucknow",
+      "state": "Uttar Pradesh",
+      "zipCode": "226012",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Harish Nambiar",
+    "email": "harish.nambiar@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "6919744dcb230d5e869ccc5f",
+    "position": "Manager",
+    "salary": 110000,
+    "phone": "+91 98765 43243",
+    "address": {
+      "street": "Banjara Hills",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zipCode": "500034",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Lakshmi Iyer",
+    "email": "lakshmi.iyer@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "6919744dcb230d5e869ccc5f",
+    "position": "Research Scientist",
+    "salary": 95000,
+    "phone": "+91 98765 43244",
+    "address": {
+      "street": "Koramangala",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zipCode": "560034",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Abhishek Rao",
+    "email": "abhishek.rao@company.com",
+    "password": "employee123",
+    "role": "Employee",
+    "department": "6919744dcb230d5e869ccc5f",
+    "position": "Data Scientist",
+    "salary": 88000,
+    "phone": "+91 98765 43245",
+    "address": {
+      "street": "Powai",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zipCode": "400076",
+      "country": "India"
+    }
+  }
+]
